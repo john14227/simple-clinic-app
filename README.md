@@ -18,7 +18,7 @@ You can install yarn with `npm install -g yarn` after installing Node.js
 #### Backend
 - Please create your database with pgAdmin (recommended)
 - Run `yarn install` and `yarn sequelize db:migrate`
-- (Optional) If you are familar with Docker, then you can skip the backend setup and configuration sessions. Please refer to "how to start" session to start backend.
+- (Optional) If you would like to use Docker to start the backend, then you can skip the backend setup and configuration sessions. Please refer to "how to start" session to start backend.
 
 ## Configuration
 #### Frontend
